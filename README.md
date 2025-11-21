@@ -1,4 +1,4 @@
-<img width="540" height="304" alt="Saya GIF - Glitch Art" src="images/Saya.gif" />
+<img width="690" height="304" alt="Saya GIF - Glitch Art" src="images/Saya.gif" />
 
 ## 👋 Hi, I'm Karl!
 
